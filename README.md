@@ -14,3 +14,9 @@ php bin/console doctrine:database:create
 php bin/console doctrine:schema:create
 
 php bin/console server:run
+
+
+<p align="center">
+  <a href="https://www.youtube.com/channel/UC2g_-ipVjit6ZlACPWG4JvA?sub_confirmation=1"><img src="https://raw.githubusercontent.com/vertingo/easy-admin-youtube-newsletter-firebase/master/web/assets/images/reseaux-sociaux/youtube2.png" width="400" height="250"/></a>
+  <a href="https://www.facebook.com/vertingo/"><img src="https://raw.githubusercontent.com/vertingo/easy-admin-youtube-newsletter-firebase/master/web/assets/images/reseaux-sociaux/rejoins_nous.png" width="400" height="250"/></a>
+</p>
